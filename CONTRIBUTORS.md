@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Emmanuella B. Ofili](https://github.com/emmanuella-ofili)
+- Place: Port Harcourt, Nigeria
+- Bio: Product designer
+- Github: [Emmanuella B. Ofili](https://github.com/emmanuella-ofili)
